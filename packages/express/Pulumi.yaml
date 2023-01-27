@@ -1,0 +1,4 @@
+name: express-app
+runtime: nodejs
+description: An example project
+main: infra/index.ts
